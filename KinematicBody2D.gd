@@ -23,7 +23,5 @@ func _physics_process(delta):
 		if is_on_floor():
 			velocity.y = jump
 	print_debug(velocity.y)
-	
-	
-# Called when the node enters the scene tree for the first time.
+# some new comment Called when the node enters the scene tree for the first time.
 
